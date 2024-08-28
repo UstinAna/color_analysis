@@ -8,7 +8,7 @@ import os
 base_path = os.path.dirname(os.path.abspath(__file__))
 
 # Define the folder path where images are stored
-folder_path = os.path.join(base_path, 'images')  # Ensure 'image' folder exists in the same directory
+folder_path = os.path.join(base_path, 'images')
 
 # Initialize an empty list to store image file names
 image_files = []
