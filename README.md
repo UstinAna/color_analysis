@@ -1,7 +1,3 @@
-Here is a `README.md` file that you can use for your project:
-
----
-
 # Color Analysis Project
 
 This project is designed to analyze the dominant colors in images using K-Means clustering. The script processes multiple images within a specified folder and generates a report detailing the dominant colors and their respective percentages.
@@ -68,7 +64,3 @@ Contributions are welcome! If you have any ideas, improvements, or bug fixes, fe
 ## Contact
 
 If you have any questions or need further assistance, feel free to reach out.
-
----
-
-This `README.md` provides a clear overview of the project, instructions for setting it up, and details on how to use it. Let me know if you need any further customization!
