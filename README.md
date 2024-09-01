@@ -10,18 +10,13 @@ This project is designed to analyze the dominant colors in images using K-Means 
 
 ## Requirements
 
-To run this project, you'll need to install the necessary Python libraries. You can do this by running:
+To run this project, make sure you have python3 installed.
+
+Then, you'll need to install the necessary Python libraries. You can do this by running:
 
 ```bash
 pip install -r requirements.txt
 ```
-
-The `requirements.txt` file includes the following libraries:
-
-- `opencv-python==4.8.0.74`
-- `numpy==1.24.4`
-- `matplotlib==3.8.0`
-- `scikit-learn==1.3.0`
 
 ## Usage
 
