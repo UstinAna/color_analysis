@@ -1,5 +1,7 @@
 # Color Analysis Project
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 This project is designed to analyze the dominant colors in images using K-Means clustering. The script processes multiple images within a specified folder and generates a report detailing the dominant colors and their respective percentages.
 
 ## Features
